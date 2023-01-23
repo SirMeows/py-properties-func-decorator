@@ -1,0 +1,1 @@
+# py-properties-func-decorator
